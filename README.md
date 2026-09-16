@@ -30,7 +30,7 @@ Welcome.....
 
  - Add JavaScript interactions
 - Improve responsiveness and animations
-- Built with ❤️ using HTML & CSS.
+
 
 
 
